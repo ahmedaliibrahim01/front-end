@@ -10,11 +10,10 @@
 1. **`h1 - h6`**: Başlıklar. **`h1`** en önemli, **`h6`** en az önemli başlığı belirtir.
 2. **`p`**: Paragraf.
 3. **`br`**: Satır sonu.
-4. **`hr`**: Yatay çizgi.
-5. **`strong`**: Kalın yazı.
-6. **`em`**: İtalik yazı.
-7. **`a`**: Bağlantı (anchor). `href` özniteliği ile bağlantı adresi belirtilir.
-8. **`span`**: Metin veya diğer öğeleri biçimlendirmek için kullanılan satır içi konteyner.
+4. **`strong`**: Kalın yazı.
+5. **`em`**: İtalik yazı.
+6. **`a`**: Bağlantı (anchor). `href` özniteliği ile bağlantı adresi belirtilir.
+7. **`span`**: Metin veya diğer öğeleri biçimlendirmek için kullanılan satır içi konteyner.
 
 #### Liste Etiketleri
 1. **`ul`**: Sırasız liste (madde işaretli).
