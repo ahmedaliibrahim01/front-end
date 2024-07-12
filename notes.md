@@ -13,7 +13,6 @@
 4. **`strong`**: Kalın yazı.
 5. **`em`**: İtalik yazı.
 6. **`a`**: Bağlantı (anchor). `href` özniteliği ile bağlantı adresi belirtilir.
-7. **`span`**: Metin veya diğer öğeleri biçimlendirmek için kullanılan satır içi konteyner.
 
 #### Liste Etiketleri
 1. **`ul`**: Sırasız liste (madde işaretli).
