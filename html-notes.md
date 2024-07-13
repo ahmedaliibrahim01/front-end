@@ -34,12 +34,21 @@
 
 ### Tablo Etiketleri
 1. **`table`**: Tablo.
-
+   - **`border`**: Tablonun kenarlık kalınlığını belirtir (artık önerilmez, CSS kullanımı tercih edilir).
+   - **`width`**: Tablonun genişliğini belirtir.
+   - **`cellpadding`**: Hücre içeriği ile hücre sınırı arasındaki boşluk miktarını belirtir.
+   - **`cellspacing`**: Hücreler arasındaki boşluk miktarını belirtir.
 2. **`tr`**: Tablo satırı.
 
 3. **`td`**: Tablo hücresi.
+   - **`colspan`**: Hücrenin kaç sütunu kaplayacağını belirtir.
+   - **`rowspan`**: Hücrenin kaç satırı kaplayacağını belirtir.
 
 4. **`th`**: Tablo başlığı hücresi.
+   - **`colspan`**: Hücrenin kaç sütunu kaplayacağını belirtir.
+   - **`rowspan`**: Hücrenin kaç satırı kaplayacağını belirtir.
+
+Bu öznitelikler tabloları daha iyi biçimlendirmek ve düzenlemek için kullanılır. Herhangi başka bir konuda yardım gerekiyorsa, sormaktan çekinmeyin!
 
 ### Medya Etiketleri
 1. **`img`**: Görüntü.
